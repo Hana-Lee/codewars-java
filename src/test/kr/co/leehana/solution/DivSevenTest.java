@@ -7,7 +7,7 @@ import static org.junit.Assert.assertArrayEquals;
 /**
  * Created by Hana Lee on 2015-10-12 오전 8:50
  *
- * @author {@link "mailto:leehana@eyeq.co.kr" "Hana Lee"}
+ * @author {@link "mailto:i@leehana.co.kr" "Hana Lee"}
  * @since 2015-10-12 오전 8:50
  *
  * = Description =

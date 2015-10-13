@@ -5,10 +5,10 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Created by Hana Lee on 2015-10-11 17:29
+ * Created by Hana Lee on 2015-10-11 오후 5:29
  *
- * @author Hana Lee
- * @since 2015-10-11 17:29
+ * @author {@link "mailto:i@leehana.co.kr" "Hana Lee"}
+ * @since 2015-10-11 오후 5:29
  */
 public class NthSeriesTest {
 

@@ -3,7 +3,7 @@ package kr.co.leehana.solution;
 /**
  * Created by Hana Lee on 2015-10-12 오전 8:46
  *
- * @author {@link "mailto:leehana@eyeq.co.kr" "Hana Lee"}
+ * @author {@link "mailto:i@leehana.co.kr" "Hana Lee"}
  * @since 2015-10-12 오전 8:46
  *
  *

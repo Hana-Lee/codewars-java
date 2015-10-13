@@ -1,10 +1,10 @@
 package kr.co.leehana.solution;
 
 /**
- * Created by Hana Lee on 2015-10-11 17:25
+ * Created by Hana Lee on 2015-10-11 오후 5:25
  *
- * @author Hana Lee
- * @since 2015-10-11 17:25
+ * @author {@link "mailto:i@leehana.co.kr" "Hana Lee"}
+ * @since 2015-10-11 오후 5:25
  *
  *
  * = Description =
